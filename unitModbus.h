@@ -22,7 +22,7 @@
 // specific write holding registers to unit
 #define FUTURES CUSTOM_HR_START_WRITE
 
-#define B1R1_1A_XY_013_MB 	CUSTOM_COIL_START_WRITE
+#define B1R1_1A_XY_013_MB 	80
 #define B1R1_1A_XY_015_MB	B1R1_1A_XY_013_MB + 1 
 #define B1R1_1A_XY_016_MB	B1R1_1A_XY_015_MB + 1
 
